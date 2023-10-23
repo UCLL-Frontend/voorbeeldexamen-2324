@@ -10,7 +10,7 @@ Het spreekt voor zich dat je op het examen een andere vraag zal krijgen, waar je
 Uitgewerkte examenvraag
 -----------------------
 
-Je krijgt het html-bestand [oefening-html](html-uitgewerkte-oefening/oefening-html.html) en een (leeg) stijlblad [stijl.css](html-uitgewerkte-oefening/stijl.css). Link het stijlblad aan het html-bestand. Schrijf de nodige CSS zodat je pagina eruit ziet zoals op het filmpje [html-2223](html-uitgewerkte-oefening/html-2223.mp4).
+Je krijgt het html-bestand [oefening-html](html-uitgewerkte-oefening/oefening-html.html) en een (leeg) stijlblad [stijl.css](html-uitgewerkte-oefening/stijl.css). Link het stijlblad aan het html-bestand. Schrijf de nodige CSS zodat je pagina eruit ziet zoals op het filmpje [html-2223](html-uitgewerkte-oefening/html-2223.mp4) (klik op "view raw" om de mp4 te downloaden, 8MB).
 
 *   Je hoeft geen scss te gebruiken.
 *   Zorg ervoor dat de pagina een basisresponsiviteit heeft.
