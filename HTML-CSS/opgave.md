@@ -24,4 +24,4 @@ Andere mogelijkheden
 --------------------
 
 1.  Schrijf (zelf) de HTML van een formulier met gegeven velden. Creëer een lay-out zoals getoond in het filmpje.
-2.  Gegeven een screenshot (of filmpje) van een webpagina en een HTML-document zonder markup. Voorzie de HTML van de juiste markup. Schrijf vervolgens de nodige CSS om het resultaat van de screenshot te bekomen.
+2.  Gegeven een screenshot (of filmpje) van een webpagina en een HTML-document zonder markup (= HTML-elementen). Voorzie de HTML van de juiste markup. Schrijf vervolgens de nodige CSS om het resultaat van de screenshot te bekomen.
